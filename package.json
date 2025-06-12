@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emoji-mart/data": "^1.2.1",
+    "@emoji-mart/react": "^1.1.1",
     "@tiptap/extension-bold": "^2.14.0",
     "@tiptap/extension-italic": "^2.14.0",
+    "@tiptap/extension-placeholder": "^2.14.0",
     "@tiptap/extension-underline": "^2.14.0",
     "@tiptap/react": "^2.14.0",
     "@tiptap/starter-kit": "^2.14.0",
